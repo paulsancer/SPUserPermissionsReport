@@ -37,3 +37,6 @@ packages/
 
 #Node modules
 node_modules
+
+#Allow dist folder
+!dist/*
